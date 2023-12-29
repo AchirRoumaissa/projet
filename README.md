@@ -1,2 +1,2 @@
 # projet
-les primitive des piles
+les primitives des piles
